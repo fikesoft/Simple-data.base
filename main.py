@@ -9,7 +9,7 @@ HOST = "localhost"
 DATA = "test0"
 PORT = "2401" 
 USER = "postgres"
-PASS = "floare123"
+PASS = "***********"
 
 
 
